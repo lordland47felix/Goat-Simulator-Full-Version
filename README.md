@@ -243,4 +243,4 @@ This repository serves as the official landing page for Goat Simulator. The soft
 **Get the most recent version of Goat Simulator today!**
 
 ---
-**Last updated:** 2026-09-19 22:09:12 UTC
+**Last updated:** 2026-09-20 00:42:41 UTC
